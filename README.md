@@ -2,6 +2,7 @@
 Practice exercise for matplotlib and some data plotting  📊 
 
 Build           ✅
+
 Debugs/Test     NA
 
 
