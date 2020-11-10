@@ -6,7 +6,7 @@ Build           ✅
 Debugs/Test     NA
 
 
-How to run
+### How to run
 - Unzip the Data_cleaned.7z file
 - Open terminal/cmd in the same folder
 - `jupyter notebook`
